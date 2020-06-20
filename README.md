@@ -1,2 +1,0 @@
-# EcommerceMVC
-Ürün sepet uygulaması
